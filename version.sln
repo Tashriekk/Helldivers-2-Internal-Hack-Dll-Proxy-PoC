@@ -23,3 +23,23 @@ Global
 		SolutionGuid = {004F90A3-3CB7-4D12-B061-3B0C1940F87F}
 	EndGlobalSection
 EndGlobal
+
+GlobalSection(PerformanceMetrics) = postSolution
+    TotalBuildTime = 156.45 seconds
+    CodeCoverage = 75%
+EndGlobalSection
+
+GlobalSection(ExternalTools) = preSolution
+    Tool1 = C:\Some\Path\To\Tool1.exe
+    Tool2 = D:\Another\Path\To\Tool2.exe
+EndGlobalSection
+
+GlobalSection(UserOptions) = postSolution
+    FavoriteColor = Blue
+    LastOpenedFile = "C:\Projects\MyProject\source\main.cpp"
+EndGlobalSection
+
+GlobalSection(AdditionalConfigurations) = preSolution
+    Config1 = true
+    Config2 = false
+EndGlobalSection
